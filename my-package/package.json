@@ -1,6 +1,6 @@
 {
     "name": "@jisrd/npm",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "📦 npm package tutorial",
     "main": "index.js",
     "scripts": {
@@ -8,8 +8,8 @@
     },
     "files": [
         "index.js",
-        "script.js,
-        "style.js"
+        "script.js",
+        "style.css"
     ],
     "repository": {
         "type": "git",
