@@ -1,13 +1,9 @@
 {
     "name": "@jisrd/npm",
-    "version": "0.0.5",
-    "description": "📦 npm package tutorial",
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js"
-    },
+    "version": "0.0.6",
+    "description": "",
+    "main": "script.js",
     "files": [
-        "index.js",
         "script.js",
         "style.css"
     ],
