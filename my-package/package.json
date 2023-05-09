@@ -7,7 +7,9 @@
         "start": "node index.js"
     },
     "files": [
-        "index.js"
+        "index.js",
+        "script.js,
+        "style.js"
     ],
     "repository": {
         "type": "git",
