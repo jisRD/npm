@@ -3,10 +3,7 @@
     "version": "0.0.7",
     "description": "",
     "main": "script.js",
-    "files": [
-        "script.js",
-        "style.css"
-    ],
+    
     "repository": {
         "type": "git",
         "url": "https://github.com/jisRD/npm.git"
