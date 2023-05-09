@@ -1,6 +1,6 @@
 {
     "name": "@jisrd/npm",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "📦 npm package tutorial",
     "main": "index.js",
     "scripts": {
@@ -26,7 +26,7 @@
         "email": "soscerjishnu@gmail.com",
         "url": ""
     },
-    "license": "MIT",
+    "license": "",
     "bugs": {
         "url": "https://github.com/jisRD/npm/issues"
     },
